@@ -1,0 +1,74 @@
+/* body{
+    background-color: #39A7FF;
+}
+
+.card-container{
+    background-color: #39A7FF;
+    display:flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+   column-gap: 30px;
+    /* width: 1100px; */
+    /* align-content: space-around;
+    height: 600px;
+}
+.button{
+    width:200px;
+    border-radius: 50px;
+    margin-left:40px;
+    background-color: #39A7FF;
+    color: antiquewhite;
+} */
+/* .card-head{
+    font-size: 28px;
+    font-weight: 700;
+    text-align: center;
+    align-content: center;
+    border-bottom: 1px solid gray;
+    margin-right: 18px;
+} */
+/* .cards{
+ text-align: left;
+ background-color: white;
+ border: 1px solid black;
+ width:280px;
+ padding-left: 20px;
+ padding-bottom: 10px;
+ border: none;
+ border-radius: 10px;
+ box-shadow: 4px 3px 4px rgb(59, 58, 58), 3px 2px 3px rgb(85, 84, 84), 4px 3px 4px rgb(77, 76, 76);
+} */
+
+/* .type{
+    font-size: 15px;
+    background-color:#39A7FF ;
+    color: white;
+    height: 30px;
+    margin-right: 10px;
+    margin-left: 64px;
+    padding-top: 8px;
+    width: 150px;
+    left: 40px;
+    border-radius: 5px;
+    justify-content: center;
+} */
+/* 
+li{
+    list-style: none;
+    padding-left: 1em;
+    font-weight: 500;
+   
+} */
+/* 
+li:before{
+    content: '✓';
+    color: green;
+    
+
+} */
+/* .no-access{
+    opacity: 0.3;
+    list-style: none;
+    list-style-type: 'x';
+} */ 
+
